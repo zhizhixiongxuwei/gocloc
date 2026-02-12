@@ -1,4 +1,0 @@
-interface:
-  display_name: "gocloc FSM CLI"
-  short_description: "Build and maintain the FSM-based gocloc scanner CLI."
-  default_prompt: "Use $gocloc-fsm-cli to extend gocloc commands, FSM parsers, tests, and scan output safely."

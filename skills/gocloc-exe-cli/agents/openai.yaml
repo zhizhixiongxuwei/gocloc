@@ -1,0 +1,4 @@
+interface:
+  display_name: "gocloc EXE CLI"
+  short_description: "Use bundled gocloc.exe to scan code lines quickly."
+  default_prompt: "Use $gocloc-exe-cli to scan a folder and summarize total/code/comment/blank/files."
